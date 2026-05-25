@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/othelloverrocchio-alt/REPO/main/assets/images/header.webp)
+![Header](https://github.com/othelloverrocchio-alt/home/blob/main/assets/images/mysitebanner.png)
 Welcome to My Literary Repository
 
 Stories, investigations, reflections, and digital creativity — all gathered in one evolving archive.
