@@ -7,12 +7,13 @@ I am **Othello Cody Verrocchio** — writer, journalist, researcher, and lifelon
 
 This repository serves as a central hub for my written works, creative experiments, research projects, and published books. Here you'll find a blend of:
 
-📚 Books and manuscripts
-📰 Journalism and investigative writing
-✍️ Essays and commentary
-💻 Digital publishing projects
-🧠 Research notes and archived material
-🎨 Creative concepts and visual storytelling
+## 📚 [Books and manuscripts.](books-and-manuscripts)
+## 📰 Journalism and investigative writing.
+## ✍️ Essays and commentary.
+## 💻 Digital publishing projects.
+## 🧠 Research notes and archived material.
+## 🎨 Creative concepts and visual storytelling.
+
 About Me
 
 With a background in journalism, online marketing, and web design, I have spent decades navigating both traditional and digital media landscapes. My work often explores the intersection of:
