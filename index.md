@@ -3,7 +3,7 @@ Welcome to My Literary Repository
 Stories, investigations, reflections, and digital creativity — all gathered in one evolving archive.
 
 Hello, and welcome to my GitHub presence.
-I am Othello Cody Verrocchio — writer, journalist, researcher, and lifelong explorer of technology, history, faith, and the human condition.
+I am **Othello Cody Verrocchio** — writer, journalist, researcher, and lifelong explorer of technology, history, faith, and the human condition.
 
 This repository serves as a central hub for my written works, creative experiments, research projects, and published books. Here you'll find a blend of:
 
